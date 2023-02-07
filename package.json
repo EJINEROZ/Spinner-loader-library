@@ -1,6 +1,6 @@
 {
   "name": "spin-loader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "loader that spins",
   "author": "Ejineroz",
   "license": "MIT",
@@ -49,5 +49,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+
+  "publishConfig": {
+    "@EJINEROZ:registry": "https://npm.pkg.github.com"
+  }
 }
